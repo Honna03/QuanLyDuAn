@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Th\u1EF1c t\u1EADp\\ProjectManagementApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B2F1DA-F092-4A2D-8292-97C6C4E5FE70}|ProjectManagementApp\\ProjectManagementApp.csproj|d:\\th\u1EF1c t\u1EADp\\projectmanagementapp\\projectmanagementapp\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D4B2F1DA-F092-4A2D-8292-97C6C4E5FE70}|ProjectManagementApp\\ProjectManagementApp.csproj|solutionrelative:projectmanagementapp\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B2F1DA-F092-4A2D-8292-97C6C4E5FE70}|ProjectManagementApp\\ProjectManagementApp.csproj|d:\\th\u1EF1c t\u1EADp\\projectmanagementapp\\projectmanagementapp\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B2F1DA-F092-4A2D-8292-97C6C4E5FE70}|ProjectManagementApp\\ProjectManagementApp.csproj|solutionrelative:projectmanagementapp\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B2F1DA-F092-4A2D-8292-97C6C4E5FE70}|ProjectManagementApp\\ProjectManagementApp.csproj|d:\\th\u1EF1c t\u1EADp\\projectmanagementapp\\projectmanagementapp\\frmaddtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B2F1DA-F092-4A2D-8292-97C6C4E5FE70}|ProjectManagementApp\\ProjectManagementApp.csproj|solutionrelative:projectmanagementapp\\frmaddtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B2F1DA-F092-4A2D-8292-97C6C4E5FE70}|ProjectManagementApp\\ProjectManagementApp.csproj|d:\\th\u1EF1c t\u1EADp\\projectmanagementapp\\projectmanagementapp\\frmmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B2F1DA-F092-4A2D-8292-97C6C4E5FE70}|ProjectManagementApp\\ProjectManagementApp.csproj|solutionrelative:projectmanagementapp\\frmmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B2F1DA-F092-4A2D-8292-97C6C4E5FE70}|ProjectManagementApp\\ProjectManagementApp.csproj|d:\\th\u1EF1c t\u1EADp\\projectmanagementapp\\projectmanagementapp\\frmaddtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D4B2F1DA-F092-4A2D-8292-97C6C4E5FE70}|ProjectManagementApp\\ProjectManagementApp.csproj|solutionrelative:projectmanagementapp\\frmaddtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B2F1DA-F092-4A2D-8292-97C6C4E5FE70}|ProjectManagementApp\\ProjectManagementApp.csproj|d:\\th\u1EF1c t\u1EADp\\projectmanagementapp\\projectmanagementapp\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B2F1DA-F092-4A2D-8292-97C6C4E5FE70}|ProjectManagementApp\\ProjectManagementApp.csproj|solutionrelative:projectmanagementapp\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B2F1DA-F092-4A2D-8292-97C6C4E5FE70}|ProjectManagementApp\\ProjectManagementApp.csproj|d:\\th\u1EF1c t\u1EADp\\projectmanagementapp\\projectmanagementapp\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D4B2F1DA-F092-4A2D-8292-97C6C4E5FE70}|ProjectManagementApp\\ProjectManagementApp.csproj|solutionrelative:projectmanagementapp\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B2F1DA-F092-4A2D-8292-97C6C4E5FE70}|ProjectManagementApp\\ProjectManagementApp.csproj|d:\\th\u1EF1c t\u1EADp\\projectmanagementapp\\projectmanagementapp\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B2F1DA-F092-4A2D-8292-97C6C4E5FE70}|ProjectManagementApp\\ProjectManagementApp.csproj|solutionrelative:projectmanagementapp\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B2F1DA-F092-4A2D-8292-97C6C4E5FE70}|ProjectManagementApp\\ProjectManagementApp.csproj|d:\\th\u1EF1c t\u1EADp\\projectmanagementapp\\projectmanagementapp\\taskitem.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{D4B2F1DA-F092-4A2D-8292-97C6C4E5FE70}|ProjectManagementApp\\ProjectManagementApp.csproj|solutionrelative:projectmanagementapp\\taskitem.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B2F1DA-F092-4A2D-8292-97C6C4E5FE70}|ProjectManagementApp\\ProjectManagementApp.csproj|d:\\th\u1EF1c t\u1EADp\\projectmanagementapp\\projectmanagementapp\\frmaddtask.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B2F1DA-F092-4A2D-8292-97C6C4E5FE70}|ProjectManagementApp\\ProjectManagementApp.csproj|solutionrelative:projectmanagementapp\\frmaddtask.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B2F1DA-F092-4A2D-8292-97C6C4E5FE70}|ProjectManagementApp\\ProjectManagementApp.csproj|d:\\th\u1EF1c t\u1EADp\\projectmanagementapp\\projectmanagementapp\\frmdangnhap.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B2F1DA-F092-4A2D-8292-97C6C4E5FE70}|ProjectManagementApp\\ProjectManagementApp.csproj|solutionrelative:projectmanagementapp\\frmdangnhap.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B2F1DA-F092-4A2D-8292-97C6C4E5FE70}|ProjectManagementApp\\ProjectManagementApp.csproj|d:\\th\u1EF1c t\u1EADp\\projectmanagementapp\\projectmanagementapp\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B2F1DA-F092-4A2D-8292-97C6C4E5FE70}|ProjectManagementApp\\ProjectManagementApp.csproj|solutionrelative:projectmanagementapp\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B2F1DA-F092-4A2D-8292-97C6C4E5FE70}|ProjectManagementApp\\ProjectManagementApp.csproj|d:\\th\u1EF1c t\u1EADp\\projectmanagementapp\\projectmanagementapp\\useraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B2F1DA-F092-4A2D-8292-97C6C4E5FE70}|ProjectManagementApp\\ProjectManagementApp.csproj|solutionrelative:projectmanagementapp\\useraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B2F1DA-F092-4A2D-8292-97C6C4E5FE70}|ProjectManagementApp\\ProjectManagementApp.csproj|d:\\th\u1EF1c t\u1EADp\\projectmanagementapp\\projectmanagementapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B2F1DA-F092-4A2D-8292-97C6C4E5FE70}|ProjectManagementApp\\ProjectManagementApp.csproj|solutionrelative:projectmanagementapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaskItem.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp\\ProjectManagementApp\\ProjectManagementApp\\TaskItem.cs",
+              "RelativeDocumentMoniker": "ProjectManagementApp\\TaskItem.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp\\ProjectManagementApp\\ProjectManagementApp\\TaskItem.cs",
+              "RelativeToolTip": "ProjectManagementApp\\TaskItem.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAgwBwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T20:26:52.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmAddTask.cs [Design]",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp\\ProjectManagementApp\\ProjectManagementApp\\FrmAddTask.cs",
+              "RelativeDocumentMoniker": "ProjectManagementApp\\FrmAddTask.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp\\ProjectManagementApp\\ProjectManagementApp\\FrmAddTask.cs [Design]",
+              "RelativeToolTip": "ProjectManagementApp\\FrmAddTask.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T19:37:25.155Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmMain.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp\\ProjectManagementApp\\ProjectManagementApp\\FrmMain.cs",
+              "RelativeDocumentMoniker": "ProjectManagementApp\\FrmMain.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp\\ProjectManagementApp\\ProjectManagementApp\\FrmMain.cs",
+              "RelativeToolTip": "ProjectManagementApp\\FrmMain.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG0DAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T19:17:56.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmAddTask.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp\\ProjectManagementApp\\ProjectManagementApp\\FrmAddTask.cs",
+              "RelativeDocumentMoniker": "ProjectManagementApp\\FrmAddTask.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp\\ProjectManagementApp\\ProjectManagementApp\\FrmAddTask.cs",
+              "RelativeToolTip": "ProjectManagementApp\\FrmAddTask.cs",
+              "ViewState": "AgIAAKkAAAAAAAAAAAAuwNIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T19:37:47.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmMain.Designer.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp\\ProjectManagementApp\\ProjectManagementApp\\FrmMain.Designer.cs",
+              "RelativeDocumentMoniker": "ProjectManagementApp\\FrmMain.Designer.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp\\ProjectManagementApp\\ProjectManagementApp\\FrmMain.Designer.cs",
+              "RelativeToolTip": "ProjectManagementApp\\FrmMain.Designer.cs",
+              "ViewState": "AgIAAOQAAAAAAAAAAAAuwA0BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T19:17:37.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmDangnhap.cs [Design]",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp\\ProjectManagementApp\\ProjectManagementApp\\FrmDangnhap.cs",
+              "RelativeDocumentMoniker": "ProjectManagementApp\\FrmDangnhap.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp\\ProjectManagementApp\\ProjectManagementApp\\FrmDangnhap.cs [Design]",
+              "RelativeToolTip": "ProjectManagementApp\\FrmDangnhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T19:07:13.624Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmMain.cs [Design]",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp\\ProjectManagementApp\\ProjectManagementApp\\FrmMain.cs",
+              "RelativeDocumentMoniker": "ProjectManagementApp\\FrmMain.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp\\ProjectManagementApp\\ProjectManagementApp\\FrmMain.cs [Design]",
+              "RelativeToolTip": "ProjectManagementApp\\FrmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T19:17:33.285Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmAddTask.Designer.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp\\ProjectManagementApp\\ProjectManagementApp\\FrmAddTask.Designer.cs",
+              "RelativeDocumentMoniker": "ProjectManagementApp\\FrmAddTask.Designer.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp\\ProjectManagementApp\\ProjectManagementApp\\FrmAddTask.Designer.cs",
+              "RelativeToolTip": "ProjectManagementApp\\FrmAddTask.Designer.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAwwLgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T19:37:31.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TaskItem.resx",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp\\ProjectManagementApp\\ProjectManagementApp\\TaskItem.resx",
+              "RelativeDocumentMoniker": "ProjectManagementApp\\TaskItem.resx",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp\\ProjectManagementApp\\ProjectManagementApp\\TaskItem.resx",
+              "RelativeToolTip": "ProjectManagementApp\\TaskItem.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-03-25T08:48:59.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp\\ProjectManagementApp\\ProjectManagementApp\\Employee.cs",
+              "RelativeDocumentMoniker": "ProjectManagementApp\\Employee.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp\\ProjectManagementApp\\ProjectManagementApp\\Employee.cs",
+              "RelativeToolTip": "ProjectManagementApp\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T08:00:42.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmDangnhap.Designer.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp\\ProjectManagementApp\\ProjectManagementApp\\FrmDangnhap.Designer.cs",
+              "RelativeDocumentMoniker": "ProjectManagementApp\\FrmDangnhap.Designer.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp\\ProjectManagementApp\\ProjectManagementApp\\FrmDangnhap.Designer.cs",
+              "RelativeToolTip": "ProjectManagementApp\\FrmDangnhap.Designer.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAuwGwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T19:08:54.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmDangnhap.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp\\ProjectManagementApp\\ProjectManagementApp\\FrmDangnhap.cs",
+              "RelativeDocumentMoniker": "ProjectManagementApp\\FrmDangnhap.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp\\ProjectManagementApp\\ProjectManagementApp\\FrmDangnhap.cs",
+              "RelativeToolTip": "ProjectManagementApp\\FrmDangnhap.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAuwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T19:14:04.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserAccount.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp\\ProjectManagementApp\\ProjectManagementApp\\UserAccount.cs",
+              "RelativeDocumentMoniker": "ProjectManagementApp\\UserAccount.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp\\ProjectManagementApp\\ProjectManagementApp\\UserAccount.cs",
+              "RelativeToolTip": "ProjectManagementApp\\UserAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T07:20:03.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp\\ProjectManagementApp\\ProjectManagementApp\\Program.cs",
+              "RelativeDocumentMoniker": "ProjectManagementApp\\Program.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp\\ProjectManagementApp\\ProjectManagementApp\\Program.cs",
+              "RelativeToolTip": "ProjectManagementApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T19:08:09.502Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
